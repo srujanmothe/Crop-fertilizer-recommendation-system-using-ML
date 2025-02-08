@@ -1,4 +1,4 @@
-# Crop Recommendation System
+# Crop and Fertilizer Recommendation System using Machine Learning
 
 ## Overview
 This project is a Crop Recommendation System that suggests the best crop to grow based on various environmental factors. The system utilizes a dataset containing soil composition, weather conditions, and other relevant attributes to make predictions.
